@@ -78,12 +78,14 @@ export default function ListContainer() {
         </div>
         <div className="flex justify-between mt-4">
           <button
+            id="addTodo"
             onClick={addTodo}
             className="px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 transition"
           >
             Add Todo
           </button>
           <button
+            id="removeTodo"
             onClick={removeLastTodo}
             className="px-4 py-2 bg-red-500 text-white rounded-md hover:bg-red-600 transition"
           >
