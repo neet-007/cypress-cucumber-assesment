@@ -44,7 +44,7 @@ This is a project that impleants a cypress-cucumber app using next js as the fro
   npm run cypress:open
   ```
 ## Demo
-You can view the demo video [here](https://github.com/neet007/cypress-cucumber-assessment/blob/main/videos/demo.mp4).
+You can view the demo video [here](https://github.com/neet-007/cypress-cucumber-assesment/blob/main/cypress-cucumber-demo.mp4).
 
 
   
