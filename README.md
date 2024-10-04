@@ -1,7 +1,8 @@
 # Cypress-cucumber-assesment
 
 This is a project that impleants a cypress-cucumber app using next js as the frontend
-the behavoirs tested:
+
+## the behavoirs tested:
 -loggin in to the app with valid data
 -adding todo to the app with valid data
 -rediring user that didnt login.
@@ -13,9 +14,9 @@ the behavoirs tested:
   
 ## Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   ```
+  ```bash
+  git clone https://github.com/yourusername/yourproject.git
+  ```
 2. Cd to the frontend directory:
   ```bash
   cd frontend
@@ -32,7 +33,7 @@ the behavoirs tested:
   ```bash
   npm install
   ```
-##Usage
+## Usage
 - Add a `.env` file with a `HOST` variable containing the URL on which you run the Next.js server (important if using WSL).
 - To run the tests in headless mode, use the following command:
   ```bash
@@ -42,7 +43,7 @@ the behavoirs tested:
   ```bash
   npm run cypress:open
   ```
-##Demo
+## Demo
 You can view the demo video [here](https://github.com/neet007/cypress-cucumber-assessment/blob/main/videos/demo.mp4).
 
 
